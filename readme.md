@@ -37,7 +37,7 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Generate Sample Data ( Optional)
 1. Remove tables(products, users) from the  database.
-2. Run two files present in this link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql on your database
+2. Run two files present in this link https://github.com/michel-j222/blog_laravel/public/sql on your database
 3. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
 ### Dashboard Details
@@ -51,7 +51,7 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within project, please send an e-mail to me via [contact@rahulvijayam.com](mailto:contact@rahulvijayam.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within project, please send an e-mail to me via [contact@rahulvijayam.com](mailto:micheljony196@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
