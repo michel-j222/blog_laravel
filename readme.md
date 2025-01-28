@@ -51,7 +51,7 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within project, please send an e-mail to me via [contact@rahulvijayam.com](mailto:micheljony196@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within project, please send an e-mail to me via [micheljony196@gmail.com](mailto:micheljony196@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
